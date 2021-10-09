@@ -1,6 +1,0 @@
-State-of-the-Art Survey of Quantum Cryptography:
-
-https://link.springer.com/article/10.1007/s11831-021-09561-2
-
-
-
